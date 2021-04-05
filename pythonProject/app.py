@@ -7,7 +7,9 @@ from speak import speak
 if __name__ == '__main__':
     # wishMe()
     while True:
+        
 
+#         this is the comment
         taskExecution()
         permission = takeCommand()
 
